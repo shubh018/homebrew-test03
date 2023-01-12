@@ -1,8 +1,8 @@
 class Svs < Formula
   desc ""
   homepage ""
-  url "https://github.com/shubh018/testing-0123/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4aedf12603867c4a036bcff5ae0a67d87781d17bba4c26524eb9bec6d8fbf49f"
+  url "https://github.com/shubh018/testing-0123/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "2cff642e02a83135838630914ed30525e628252f183887f42e09c38eb24fee36"
   license ""
 
   def install
